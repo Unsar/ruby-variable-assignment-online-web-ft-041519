@@ -3,4 +3,4 @@
 greeting="Hello World"
 
 
-print greeting.upcase
+print greeting.downcase
